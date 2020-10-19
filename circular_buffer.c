@@ -1,8 +1,5 @@
 /*
  * circular_buffer.c
- *
- *  Created on: Aug 25, 2020
- *      Author: Joe Krachey
  */
 
 #include "circular_buffer.h"
